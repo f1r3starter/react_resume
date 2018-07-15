@@ -12,13 +12,13 @@ const start = (
             justifyContent:  'center',
             alignItems:      'center',
             minHeight:       '100vh',
-            backgroundColor: 'slateblue',
-            fontSize:        28,
-            fontWeight:      700,
-            color:           'snow',
-            userSelect:      'none',
+            backgroundColor: '#070A13',
+            color:           'white',
+            fontSize:        24,
+            fontWeight:      '600',
+            textAlign:       'center',
         } }>
-        Стартовая точка
+        Воркшоп по React, домашнее задание: стартовая точка
     </h1>
 );
 
