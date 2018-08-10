@@ -1,7 +1,7 @@
 [
-    { "id": "123", "points": 7, "title": "Химия" },
-    { "id": "456", "points": 9, "title": "Физика" },
-    { "id": "789", "points": 2, "title": "Ядерная инженерия" },
-    { "id": "987", "points": 9, "title": "Метафизика" },
-    { "id": "654", "points": 8, "title": "Астронавтика" }
+    { "id": "123", "points": 9, "title": "PHP" },
+    { "id": "456", "points": 8, "title": "MySQL" },
+    { "id": "789", "points": 9, "title": "Yii2" },
+    { "id": "987", "points": 7, "title": "Nginx" },
+    { "id": "654", "points": 0.5, "title": "React.js" }
 ]
