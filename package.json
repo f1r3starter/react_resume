@@ -1,7 +1,7 @@
 {
     "name": "react-trial-hometask",
     "version": "0.2.1",
-    "author": "Dima Vakatsiienko <d.vakatsiienko@lectrum.io>",
+    "author": "Andrey Filenko <andrey.filenochko@gmail.com>",
     "private": true,
     "scripts": {
         "start": "nodemon",

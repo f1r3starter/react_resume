@@ -2,8 +2,8 @@
 import React, { Component } from 'react';
 
 // Components
-import Contacts from "./Contacts";
-import Educations from "./Educations";
+import Contacts from './Contacts';
+import Educations from './Educations';
 
 export default class BottomRow extends Component {
     render () {

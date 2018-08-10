@@ -9,9 +9,13 @@ import Education from './Education';
 
 export default class Educations extends Component {
     render () {
-        const educationsJSX = educations.map((education) => {
-            return <Education degree = { education.degree } eduspace = { education.eduspace } key = { education.id } period = { education.period } />;
-        });
+        const educationsJSX = educations.map((education) => (<Education
+            degree = { education.degree }
+            eduspace = { education.eduspace }
+            key = { education.id }
+            period = { education.period }
+        />)
+        );
 
         return (
             <div className = 'education'>

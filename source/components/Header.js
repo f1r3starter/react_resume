@@ -1,7 +1,11 @@
 // Core
 import React, { Component } from 'react';
 
+// Instruments
+import photo from '../theme/assets/images/photo.jpg';
+
 export default class Header extends Component {
+
     render () {
         return (
             <div className = 'header'>
@@ -10,7 +14,7 @@ export default class Header extends Component {
                     <span>Backend developer</span>
                     <p>Want to understand all those tricky frontend things</p>
                 </div>
-                <img src = { require('../theme/assets/images/photo.jpg') } />
+                <img src = { photo } />
             </div>
         );
     }

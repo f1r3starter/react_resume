@@ -1,7 +1,7 @@
 // Core
 import React, { Component } from 'react';
-import Skills from "./Skills";
-import Workplaces from "./Workplaces";
+import Skills from './Skills';
+import Workplaces from './Workplaces';
 
 export default class TopRow extends Component {
     render () {
